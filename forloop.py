@@ -1,5 +1,4 @@
-foods = ['bacon', 'tuna', 'ham', 'beef', 'waffels']
-
-for f in foods:
-    print(f)
-    print(len(f))
+number = 1
+while number <= 99:
+    print(number)
+    number += 1
