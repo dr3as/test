@@ -1,0 +1,8 @@
+name = "Andrea3s"
+
+if name is "Andreas":
+    print("Name is Andreas")
+elif name is "Nanette":
+    print("Name is Nanette")
+else:
+    print("Name is not Andreas or Nanette")
